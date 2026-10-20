@@ -19,8 +19,6 @@ Would you be open to connecting for ~15 minutes on {{Slot}}?
 Best,
 {{SenderName}}
 
-If you'd prefer not to hear from me again, just reply and let me know.
-
 ---
 
 ## Tips
