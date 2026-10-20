@@ -18,7 +18,6 @@ You don't need admin rights or an app registration. You sign in through Microsof
 
 ## Before you start
 
-- **Check that it's allowed.** Use your UW email for university and research purposes, in line with UW's acceptable-use policies. If your outreach is for a company, check whether it should come from a company address instead.
 - **Send small batches.** 10–20 emails a day, and at most about 50. Microsoft's spam protection can block an account that suddenly sends lots of external email, which would cut you off from your UW email.
 - **Respect anti-spam rules.** Canada's CASL and similar laws expect you to say who you are and to offer a way to opt out. The template's last line does this. Honour every opt-out straight away.
 - **Treat the access token like a password.** For about an hour it can send email as you. Never paste it into a chat, document, file, screenshot or commit.
