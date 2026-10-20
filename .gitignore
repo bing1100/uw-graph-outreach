@@ -1,0 +1,9 @@
+# Real recipient lists and send logs contain people's email addresses: keep them out of the repository.
+*.local.csv
+*_sent_log.csv
+private/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
